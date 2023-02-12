@@ -3,8 +3,8 @@
 
 <svg
    width="4096"
-   height="2048"
-   viewBox="0 0 1083.7333 541.86664"
+   height="1024"
+   viewBox="0 0 1083.7333 270.93332"
    version="1.1"
    id="svg5"
    inkscape:version="1.1 (c68e22c387, 2021-05-23)"
@@ -31,7 +31,7 @@
      fit-margin-right="0"
      fit-margin-bottom="0"
      inkscape:zoom="0.16770307"
-     inkscape:cx="2179.4472"
+     inkscape:cx="2179.4473"
      inkscape:cy="1386.3789"
      inkscape:window-width="1920"
      inkscape:window-height="995"
@@ -49,39 +49,24 @@
      transform="translate(-10.907458,-54.113977)">
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:65.0113px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;stroke-width:1.5237"
-       x="9.8599434"
-       y="138.20331"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:80.6381px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;stroke-width:1.74144"
+       x="49.927227"
+       y="109.11963"
        id="text12372"><tspan
          sodipodi:role="line"
-         id="tspan16442"
-         x="9.8599434"
-         y="138.20331"
-         style="stroke-width:1.5237">A person wearing a red badge does not</tspan><tspan
+         x="49.927227"
+         y="109.11963"
+         style="font-size:80.6382px;stroke-width:1.74144"
+         id="tspan4662">Don't start a conversation with</tspan><tspan
          sodipodi:role="line"
-         id="tspan16444"
-         x="9.8599434"
-         y="219.46744"
-         style="stroke-width:1.5237">want anyone to talk to them. They may</tspan><tspan
+         x="49.927227"
+         y="209.91737"
+         style="font-size:80.6382px;stroke-width:1.74144"
+         id="tspan11612">me right now. I want to be on</tspan><tspan
          sodipodi:role="line"
-         id="tspan16446"
-         x="9.8599434"
-         y="300.73157"
-         style="stroke-width:1.5237">approach others to talk, in which case it's</tspan><tspan
-         sodipodi:role="line"
-         id="tspan16448"
-         x="9.8599434"
-         y="381.99567"
-         style="stroke-width:1.5237">okay to respond. Unless you have been</tspan><tspan
-         sodipodi:role="line"
-         id="tspan16450"
-         x="9.8599434"
-         y="463.2598"
-         style="stroke-width:1.5237">told otherwise, please don't start</tspan><tspan
-         sodipodi:role="line"
-         id="tspan16452"
-         x="9.8599434"
-         y="544.52399"
-         style="stroke-width:1.5237">interacting with them</tspan></text>
+         x="49.927227"
+         y="310.71512"
+         style="font-size:80.6382px;stroke-width:1.74144"
+         id="tspan12580">my own.</tspan></text>
   </g>
 </svg>

@@ -3,8 +3,8 @@
 
 <svg
    width="4096"
-   height="2048"
-   viewBox="0 0 1083.7333 541.86664"
+   height="1024"
+   viewBox="0 0 1083.7333 270.93332"
    version="1.1"
    id="svg5"
    inkscape:version="1.1 (c68e22c387, 2021-05-23)"
@@ -50,37 +50,27 @@
      transform="translate(-10.907458,-54.113977)">
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:70.6235px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;stroke-width:1.65524"
-       x="9.7008257"
-       y="172.17917"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:80.4333px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;stroke-width:1.65524"
+       x="36.693207"
+       y="109.24553"
        id="text12372"
        inkscape:export-filename="C:\Users\nat\vrchat avatars\Nat\main\Exports\yellow badge text.png"
        inkscape:export-xdpi="242.62997"
        inkscape:export-ydpi="242.62997"><tspan
          sodipodi:role="line"
-         x="9.7008257"
-         y="172.17917"
-         id="tspan21850"
-         style="stroke-width:1.65524">A person wearing a green badge is</tspan><tspan
-         sodipodi:role="line"
-         x="9.7008257"
-         y="260.45853"
-         id="tspan24331"
-         style="stroke-width:1.65524">actively seeking interaction. They may</tspan><tspan
-         sodipodi:role="line"
-         x="9.7008257"
-         y="348.73792"
-         id="tspan24333"
-         style="stroke-width:1.65524">have trouble initiating conversations,</tspan><tspan
-         sodipodi:role="line"
-         x="9.7008257"
-         y="437.01727"
-         id="tspan24335"
-         style="stroke-width:1.65524">but it's okay to come up and start a</tspan><tspan
-         sodipodi:role="line"
-         x="9.7008257"
-         y="525.29663"
+         x="36.693207"
+         y="109.24553"
          id="tspan24337"
-         style="stroke-width:1.65524">conversation with them.</tspan></text>
+         style="font-size:80.4333px;stroke-width:1.65524">I want to interact with people.</tspan><tspan
+         sodipodi:role="line"
+         x="36.693207"
+         y="209.78716"
+         style="font-size:80.4333px;stroke-width:1.65524"
+         id="tspan4243">Please feel free to say hi even if</tspan><tspan
+         sodipodi:role="line"
+         x="36.693207"
+         y="310.32877"
+         style="font-size:80.4333px;stroke-width:1.65524"
+         id="tspan6849">I seem shy.</tspan></text>
   </g>
 </svg>
