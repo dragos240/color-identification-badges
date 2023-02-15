@@ -1,6 +1,6 @@
 # Color identification badges
 
-![](preview.png)
+![](img/preview.png)
 
 ## Who is this for?
 This asset is for people who want to make it clear how social they are at any given time to improve their con experience. This is designed for Furality Luma Festival, but it can be used for any other con or social event with lots of people.
