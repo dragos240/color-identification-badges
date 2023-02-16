@@ -2,3 +2,4 @@
 *.blend*
 !*.blend
 *.spp.*
+*.meta
